@@ -1,0 +1,28 @@
+C:\Users\871294\Dropbox\agnes__school\PCS_nieuw\PCS_4\practicum\Voor Sharepoint\week2\Deliveries\Deliveries\bin\Debug\Deliveries.exe.config
+C:\Users\871294\Dropbox\agnes__school\PCS_nieuw\PCS_4\practicum\Voor Sharepoint\week2\SOLUTIONS\Deliveries_SOLUTION\Deliveries\bin\Debug\Deliveries.exe.config
+C:\Users\871294\Dropbox\agnes__school\PCS_nieuw\PCS_4\practicum\Voor Sharepoint\week2\SOLUTIONS\Deliveries_SOLUTION\Deliveries\bin\Debug\Deliveries.exe
+C:\Users\871294\Dropbox\agnes__school\PCS_nieuw\PCS_4\practicum\Voor Sharepoint\week2\SOLUTIONS\Deliveries_SOLUTION\Deliveries\bin\Debug\Deliveries.pdb
+C:\Users\871294\Dropbox\agnes__school\PCS_nieuw\PCS_4\practicum\Voor Sharepoint\week2\SOLUTIONS\Deliveries_SOLUTION\Deliveries\obj\Debug\Deliveries.csprojResolveAssemblyReference.cache
+C:\Users\871294\Dropbox\agnes__school\PCS_nieuw\PCS_4\practicum\Voor Sharepoint\week2\SOLUTIONS\Deliveries_SOLUTION\Deliveries\obj\Debug\Deliveries.Form1.resources
+C:\Users\871294\Dropbox\agnes__school\PCS_nieuw\PCS_4\practicum\Voor Sharepoint\week2\SOLUTIONS\Deliveries_SOLUTION\Deliveries\obj\Debug\Deliveries.Properties.Resources.resources
+C:\Users\871294\Dropbox\agnes__school\PCS_nieuw\PCS_4\practicum\Voor Sharepoint\week2\SOLUTIONS\Deliveries_SOLUTION\Deliveries\obj\Debug\Deliveries.csproj.GenerateResource.Cache
+C:\Users\871294\Dropbox\agnes__school\PCS_nieuw\PCS_4\practicum\Voor Sharepoint\week2\SOLUTIONS\Deliveries_SOLUTION\Deliveries\obj\Debug\Deliveries.exe
+C:\Users\871294\Dropbox\agnes__school\PCS_nieuw\PCS_4\practicum\Voor Sharepoint\week2\SOLUTIONS\Deliveries_SOLUTION\Deliveries\obj\Debug\Deliveries.pdb
+C:\Users\871294\Dropbox\agnes__school\PCS_nieuw\PCS_4\practicum\Voor Sharepoint\week2\Deliveries_START\Deliveries\bin\Debug\Deliveries.exe.config
+C:\Users\871294\Dropbox\agnes__school\PCS_nieuw\PCS_4\practicum\Voor Sharepoint\week2\Deliveries_START\Deliveries\obj\Debug\Deliveries.exe
+C:\Users\871294\Dropbox\agnes__school\PCS_nieuw\PCS_4\practicum\Voor Sharepoint\week2\Deliveries_START\Deliveries\obj\Debug\Deliveries.pdb
+C:\Users\871294\Dropbox\agnes__school\PCS_nieuw\PCS_4\practicum\Voor Sharepoint\week2\ASSIGNM1_week2_START\Deliveries\bin\Debug\Deliveries.exe.config
+C:\Users\871294\Dropbox\agnes__school\PCS_nieuw\PCS_4\practicum\Voor Sharepoint\week2\ASSIGNM1_week2_START\Deliveries\obj\Debug\Deliveries.exe
+C:\Users\871294\Dropbox\agnes__school\PCS_nieuw\PCS_4\practicum\Voor Sharepoint\week2\ASSIGNM1_week2_START\Deliveries\obj\Debug\Deliveries.pdb
+C:\Users\Zanub\Downloads\ASSIGNM1_week2_START\Deliveries\bin\Debug\Deliveries.exe.config
+C:\Users\Zanub\Downloads\ASSIGNM1_week2_START\Deliveries\obj\Debug\Deliveries.exe
+C:\Users\Zanub\Downloads\ASSIGNM1_week2_START\Deliveries\obj\Debug\Deliveries.pdb
+C:\Users\Zanub\Downloads\ASSIGNM1_week2_START\Deliveries\bin\Debug\Deliveries.exe
+C:\Users\Zanub\Downloads\ASSIGNM1_week2_START\Deliveries\bin\Debug\Deliveries.pdb
+C:\Users\Zanub\Downloads\ASSIGNM1_week2_START\Deliveries\obj\Debug\Deliveries.Form1.resources
+C:\Users\Zanub\Downloads\ASSIGNM1_week2_START\Deliveries\obj\Debug\Deliveries.Properties.Resources.resources
+C:\Users\Zanub\Downloads\ASSIGNM1_week2_START\Deliveries\obj\Debug\Deliveries.csproj.GenerateResource.Cache
+C:\Users\Zanub\Downloads\ASSIGNM1_week2_START\Deliveries\obj\Debug\Deliveries.csprojResolveAssemblyReference.cache
+C:\Users\Zanub\Downloads\Deliverable\Deliveries\bin\Debug\Deliveries.exe.config
+C:\Users\Zanub\Downloads\Deliverable\Deliveries\obj\Debug\Deliveries.exe
+C:\Users\Zanub\Downloads\Deliverable\Deliveries\obj\Debug\Deliveries.pdb

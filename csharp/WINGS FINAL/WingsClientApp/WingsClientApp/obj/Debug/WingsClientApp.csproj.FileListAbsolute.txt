@@ -1,0 +1,23 @@
+c:\users\zanub\documents\visual studio 2012\Projects\WingsClientApp\WingsClientApp\bin\Debug\WingsClientApp.exe.config
+C:\Users\Zanub\Documents\Visual Studio 2012\Projects\WingsClientApp\WingsClientApp\obj\Debug\WingsClientApp.Properties.Resources.resources
+C:\Users\Zanub\Documents\Visual Studio 2012\Projects\WingsClientApp\WingsClientApp\obj\Debug\WingsClientApp.csproj.GenerateResource.Cache
+C:\Users\Zanub\Documents\Visual Studio 2012\Projects\WingsClientApp\WingsClientApp\obj\Debug\WingsClientApp.csprojResolveAssemblyReference.cache
+C:\Users\Zanub\Documents\Visual Studio 2012\Projects\WingsClientApp\WingsClientApp\bin\Debug\WingsClientApp.exe
+C:\Users\Zanub\Documents\Visual Studio 2012\Projects\WingsClientApp\WingsClientApp\bin\Debug\WingsClientApp.pdb
+C:\Users\Zanub\Documents\Visual Studio 2012\Projects\WingsClientApp\WingsClientApp\bin\Debug\MySql.Data.dll
+C:\Users\Zanub\Documents\Visual Studio 2012\Projects\WingsClientApp\WingsClientApp\obj\Debug\WingsClientApp.exe
+C:\Users\Zanub\Documents\Visual Studio 2012\Projects\WingsClientApp\WingsClientApp\obj\Debug\WingsClientApp.pdb
+C:\Users\Zanub\Documents\Visual Studio 2012\Projects\WingsClientApp\WingsClientApp\obj\Debug\WingsClientApp.Form1.resources
+C:\Users\Zanub\Documents\Visual Studio 2012\Projects\WingsClientApp\WingsClientApp\obj\Debug\WingsClientApp.FormStatus.resources
+C:\Users\Zanub\Documents\Visual Studio 2012\Projects\WingsClientApp\WingsClientApp\obj\Debug\WingsClientApp.FormPayPal.resources
+C:\Users\Zanub\Desktop\WINGS FINAL\WingsClientApp\WingsClientApp\bin\Debug\WingsClientApp.exe.config
+C:\Users\Zanub\Desktop\WINGS FINAL\WingsClientApp\WingsClientApp\obj\Debug\WingsClientApp.exe
+C:\Users\Zanub\Desktop\WINGS FINAL\WingsClientApp\WingsClientApp\obj\Debug\WingsClientApp.pdb
+C:\Users\Zanub\Desktop\WINGS FINAL\WingsClientApp\WingsClientApp\bin\Debug\WingsClientApp.exe
+C:\Users\Zanub\Desktop\WINGS FINAL\WingsClientApp\WingsClientApp\bin\Debug\WingsClientApp.pdb
+C:\Users\Zanub\Desktop\WINGS FINAL\WingsClientApp\WingsClientApp\obj\Debug\WingsClientApp.csprojResolveAssemblyReference.cache
+C:\Users\Zanub\Desktop\WINGS FINAL\WingsClientApp\WingsClientApp\obj\Debug\WingsClientApp.Form1.resources
+C:\Users\Zanub\Desktop\WINGS FINAL\WingsClientApp\WingsClientApp\obj\Debug\WingsClientApp.FormPayPal.resources
+C:\Users\Zanub\Desktop\WINGS FINAL\WingsClientApp\WingsClientApp\obj\Debug\WingsClientApp.FormStatus.resources
+C:\Users\Zanub\Desktop\WINGS FINAL\WingsClientApp\WingsClientApp\obj\Debug\WingsClientApp.Properties.Resources.resources
+C:\Users\Zanub\Desktop\WINGS FINAL\WingsClientApp\WingsClientApp\obj\Debug\WingsClientApp.csproj.GenerateResource.Cache

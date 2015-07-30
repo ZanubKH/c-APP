@@ -1,0 +1,12 @@
+C:\Users\871294\Dropbox\agnes_school\PCS_new\PCS3\tentamens\april2014\trial\testAgnecy\testAgnecy\bin\Debug\testAgnecy.exe.config
+C:\Users\871294\Dropbox\agnes_school\PCS_new\PCS3\tentamens\april2014\trial\testAgnecy\testAgnecy\bin\Debug\testAgnecy.exe
+C:\Users\871294\Dropbox\agnes_school\PCS_new\PCS3\tentamens\april2014\trial\testAgnecy\testAgnecy\bin\Debug\testAgnecy.pdb
+C:\Users\871294\Dropbox\agnes_school\PCS_new\PCS3\tentamens\april2014\trial\testAgnecy\testAgnecy\obj\Debug\testAgnecy.csprojResolveAssemblyReference.cache
+C:\Users\871294\Dropbox\agnes_school\PCS_new\PCS3\tentamens\april2014\trial\testAgnecy\testAgnecy\obj\Debug\testAgnecy.Form1.resources
+C:\Users\871294\Dropbox\agnes_school\PCS_new\PCS3\tentamens\april2014\trial\testAgnecy\testAgnecy\obj\Debug\testAgnecy.Properties.Resources.resources
+C:\Users\871294\Dropbox\agnes_school\PCS_new\PCS3\tentamens\april2014\trial\testAgnecy\testAgnecy\obj\Debug\testAgnecy.csproj.GenerateResource.Cache
+C:\Users\871294\Dropbox\agnes_school\PCS_new\PCS3\tentamens\april2014\trial\testAgnecy\testAgnecy\obj\Debug\testAgnecy.exe
+C:\Users\871294\Dropbox\agnes_school\PCS_new\PCS3\tentamens\april2014\trial\testAgnecy\testAgnecy\obj\Debug\testAgnecy.pdb
+C:\Users\871294\Dropbox\agnes_school\PCS_new\PCS3\tentamens\april2014\trial\testAgnecy SOLUTION\testAgnecy\bin\Debug\testAgnecy.exe.config
+C:\Users\871294\Dropbox\agnes_school\PCS_new\PCS3\tentamens\april2014\trial\testAgnecy SOLUTION\testAgnecy\obj\Debug\testAgnecy.exe
+C:\Users\871294\Dropbox\agnes_school\PCS_new\PCS3\tentamens\april2014\trial\testAgnecy SOLUTION\testAgnecy\obj\Debug\testAgnecy.pdb

@@ -1,0 +1,53 @@
+c:\users\zanub\documents\visual studio 2012\Projects\WingsMain\WingsMain\bin\Debug\WingsMain.exe.config
+c:\users\zanub\documents\visual studio 2012\Projects\WingsMain\WingsMain\obj\Debug\DatabaseConnection.Form1.resources
+c:\users\zanub\documents\visual studio 2012\Projects\WingsMain\WingsMain\obj\Debug\DatabaseConnection.Form1Camp.resources
+c:\users\zanub\documents\visual studio 2012\Projects\WingsMain\WingsMain\obj\Debug\WingsMain.Properties.Resources.resources
+c:\users\zanub\documents\visual studio 2012\Projects\WingsMain\WingsMain\obj\Debug\WingsMain.csproj.GenerateResource.Cache
+c:\users\zanub\documents\visual studio 2012\Projects\WingsMain\WingsMain\bin\Debug\WingsMain.exe
+c:\users\zanub\documents\visual studio 2012\Projects\WingsMain\WingsMain\bin\Debug\WingsMain.pdb
+c:\users\zanub\documents\visual studio 2012\Projects\WingsMain\WingsMain\bin\Debug\MySql.Data.dll
+c:\users\zanub\documents\visual studio 2012\Projects\WingsMain\WingsMain\bin\Debug\Phidget21.NET.dll
+c:\users\zanub\documents\visual studio 2012\Projects\WingsMain\WingsMain\obj\Debug\WingsMain.exe
+c:\users\zanub\documents\visual studio 2012\Projects\WingsMain\WingsMain\obj\Debug\WingsMain.pdb
+C:\Users\Zanub\Documents\Visual Studio 2012\Projects\WingsMain\WingsMain\obj\Debug\DatabaseConnection.Form1CheckingIn.resources
+C:\Users\Zanub\Documents\Visual Studio 2012\Projects\WingsMain\WingsMain\obj\Debug\WingsMain.csprojResolveAssemblyReference.cache
+C:\Users\Zanub\Documents\Visual Studio 2012\Projects\WingsMain\WingsMain\obj\Debug\DatabaseConnection.Form1Shop.resources
+C:\Users\Zanub\Documents\Visual Studio 2012\Projects\WingsMain\WingsMain\obj\Debug\DatabaseConnection.Form1Lend.resources
+D:\WingsMain\WingsMain\bin\Debug\WingsMain.exe.config
+D:\WingsMain\WingsMain\obj\Debug\WingsMain.exe
+D:\WingsMain\WingsMain\obj\Debug\WingsMain.pdb
+D:\WingsMain\WingsMain\bin\Debug\WingsMain.exe
+D:\WingsMain\WingsMain\bin\Debug\WingsMain.pdb
+D:\WingsMain\WingsMain\obj\Debug\DatabaseConnection.Form1.resources
+D:\WingsMain\WingsMain\obj\Debug\DatabaseConnection.Form1Camp.resources
+D:\WingsMain\WingsMain\obj\Debug\DatabaseConnection.Form1CheckingIn.resources
+D:\WingsMain\WingsMain\obj\Debug\DatabaseConnection.Form1Shop.resources
+D:\WingsMain\WingsMain\obj\Debug\WingsMain.Properties.Resources.resources
+D:\WingsMain\WingsMain\obj\Debug\WingsMain.csproj.GenerateResource.Cache
+E:\WingsMain\WingsMain\bin\Debug\WingsMain.exe.config
+E:\WingsMain\WingsMain\obj\Debug\WingsMain.exe
+E:\WingsMain\WingsMain\obj\Debug\WingsMain.pdb
+E:\WingsMain\WingsMain\bin\Debug\WingsMain.exe
+E:\WingsMain\WingsMain\bin\Debug\WingsMain.pdb
+E:\WingsMain\WingsMain\obj\Debug\WingsMain.csprojResolveAssemblyReference.cache
+E:\WingsMain\WingsMain\obj\Debug\DatabaseConnection.Form1.resources
+E:\WingsMain\WingsMain\obj\Debug\DatabaseConnection.Form1Camp.resources
+E:\WingsMain\WingsMain\obj\Debug\DatabaseConnection.Form1CheckingIn.resources
+E:\WingsMain\WingsMain\obj\Debug\DatabaseConnection.Form1Lend.resources
+E:\WingsMain\WingsMain\obj\Debug\DatabaseConnection.Form1Shop.resources
+E:\WingsMain\WingsMain\obj\Debug\WingsMain.Properties.Resources.resources
+E:\WingsMain\WingsMain\obj\Debug\WingsMain.csproj.GenerateResource.Cache
+D:\WingsMain\WingsMain\obj\Debug\DatabaseConnection.FormLending.resources
+C:\Users\Zanub\Desktop\WINGS FINAL\WingsMain\WingsMain\bin\Debug\WingsMain.exe.config
+C:\Users\Zanub\Desktop\WINGS FINAL\WingsMain\WingsMain\obj\Debug\WingsMain.exe
+C:\Users\Zanub\Desktop\WINGS FINAL\WingsMain\WingsMain\obj\Debug\WingsMain.pdb
+C:\Users\Zanub\Desktop\WINGS FINAL\WingsMain\WingsMain\bin\Debug\WingsMain.exe
+C:\Users\Zanub\Desktop\WINGS FINAL\WingsMain\WingsMain\bin\Debug\WingsMain.pdb
+C:\Users\Zanub\Desktop\WINGS FINAL\WingsMain\WingsMain\obj\Debug\WingsMain.csprojResolveAssemblyReference.cache
+C:\Users\Zanub\Desktop\WINGS FINAL\WingsMain\WingsMain\obj\Debug\DatabaseConnection.Form1.resources
+C:\Users\Zanub\Desktop\WINGS FINAL\WingsMain\WingsMain\obj\Debug\DatabaseConnection.Form1Camp.resources
+C:\Users\Zanub\Desktop\WINGS FINAL\WingsMain\WingsMain\obj\Debug\DatabaseConnection.Form1CheckingIn.resources
+C:\Users\Zanub\Desktop\WINGS FINAL\WingsMain\WingsMain\obj\Debug\DatabaseConnection.Form1Shop.resources
+C:\Users\Zanub\Desktop\WINGS FINAL\WingsMain\WingsMain\obj\Debug\DatabaseConnection.FormLending.resources
+C:\Users\Zanub\Desktop\WINGS FINAL\WingsMain\WingsMain\obj\Debug\WingsMain.Properties.Resources.resources
+C:\Users\Zanub\Desktop\WINGS FINAL\WingsMain\WingsMain\obj\Debug\WingsMain.csproj.GenerateResource.Cache

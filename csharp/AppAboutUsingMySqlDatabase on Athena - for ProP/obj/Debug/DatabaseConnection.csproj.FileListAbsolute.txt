@@ -1,0 +1,56 @@
+D:\old_stuff\English stream\OOD2\week 3\AppAboutUsingDatabase\obj\Debug\ResolveAssemblyReference.cache
+D:\old_stuff\English stream\OOD2\week 3\AppAboutUsingDatabase\obj\Debug\DatabaseConnection.Form1.resources
+D:\old_stuff\English stream\OOD2\week 3\AppAboutUsingDatabase\obj\Debug\DatabaseKoppeling.Properties.Resources.resources
+D:\old_stuff\English stream\OOD2\week 3\AppAboutUsingDatabase\obj\Debug\ResGen.read.1.tlog
+D:\old_stuff\English stream\OOD2\week 3\AppAboutUsingDatabase\obj\Debug\ResGen.write.1.tlog
+D:\old_stuff\English stream\OOD2\week 3\AppAboutUsingDatabase\obj\Debug\DatabaseKoppeling.exe
+D:\old_stuff\English stream\OOD2\week 3\AppAboutUsingDatabase\obj\Debug\DatabaseKoppeling.pdb
+D:\old_stuff\English stream\OOD2\week 3\AppAboutUsingDatabase\bin\Debug\DatabaseKoppeling.exe
+D:\old_stuff\English stream\OOD2\week 3\AppAboutUsingDatabase\bin\Debug\DatabaseKoppeling.pdb
+D:\new_stuff\pcs3\week 6 database handling\AppAboutUsingDatabase\obj\Debug\DatabaseKoppeling.exe
+D:\new_stuff\pcs3\week 6 database handling\AppAboutUsingDatabase\obj\Debug\DatabaseKoppeling.pdb
+D:\new_stuff\pcs3\week 6 database handling\AppAboutUsingDatabase\bin\Debug\DatabaseKoppeling.exe
+D:\new_stuff\pcs3\week 6 database handling\AppAboutUsingDatabase\bin\Debug\DatabaseKoppeling.pdb
+D:\new_stuff\pcs3\week 6 database handling\AppAboutUsingDatabase\obj\Debug\ResolveAssemblyReference.cache
+D:\new_stuff\pcs3\week 6 database handling\AppAboutUsingDatabase\obj\Debug\DatabaseConnection.Form1.resources
+D:\new_stuff\pcs3\week 6 database handling\AppAboutUsingDatabase\obj\Debug\DatabaseKoppeling.Properties.Resources.resources
+D:\new_stuff\pcs3\week 6 database handling\AppAboutUsingDatabase\obj\Debug\ResGen.read.1.tlog
+D:\new_stuff\pcs3\week 6 database handling\AppAboutUsingDatabase\obj\Debug\ResGen.write.1.tlog
+D:\new_stuff\pcs3\week 6 database handling\AppAboutUsingMySQLDatabase\obj\Debug\DatabaseKoppeling.exe
+D:\new_stuff\pcs3\week 6 database handling\AppAboutUsingMySQLDatabase\obj\Debug\DatabaseKoppeling.pdb
+D:\new_stuff\pcs3\week 6 database handling\AppAboutUsingMySQLDatabase\bin\Debug\DatabaseKoppeling.exe
+D:\new_stuff\pcs3\week 6 database handling\AppAboutUsingMySQLDatabase\bin\Debug\DatabaseKoppeling.pdb
+D:\new_stuff\pcs3\week 6 database handling\AppAboutUsingMySQLDatabase\bin\Debug\MySql.Data.dll
+D:\new_stuff\pcs3\week 6 database handling\AppAboutUsingMySQLDatabase\obj\Debug\ResolveAssemblyReference.cache
+D:\new_stuff\pcs3\week 6 database handling\AppAboutUsingMySQLDatabase\obj\Debug\DatabaseConnection.Form1.resources
+D:\new_stuff\pcs3\week 6 database handling\AppAboutUsingMySQLDatabase\obj\Debug\DatabaseKoppeling.Properties.Resources.resources
+D:\new_stuff\pcs3\week 6 database handling\AppAboutUsingMySQLDatabase\obj\Debug\ResGen.read.1.tlog
+D:\new_stuff\pcs3\week 6 database handling\AppAboutUsingMySQLDatabase\obj\Debug\ResGen.write.1.tlog
+D:\new_stuff\pcs3\week 6 database handling\AppAboutUsingMySqlDatabase on Athena\obj\Debug\DatabaseKoppeling.exe
+D:\new_stuff\pcs3\week 6 database handling\AppAboutUsingMySqlDatabase on Athena\obj\Debug\DatabaseKoppeling.pdb
+D:\new_stuff\pcs3\week 6 database handling\AppAboutUsingMySqlDatabase on Athena\bin\Debug\DatabaseKoppeling.exe
+D:\new_stuff\pcs3\week 6 database handling\AppAboutUsingMySqlDatabase on Athena\bin\Debug\DatabaseKoppeling.pdb
+D:\new_stuff\pcs3\week 6 database handling\AppAboutUsingMySqlDatabase on Athena\obj\Debug\DatabaseConnection.Form1.resources
+D:\new_stuff\pcs3\week 6 database handling\AppAboutUsingMySqlDatabase on Athena\obj\Debug\DatabaseKoppeling.Properties.Resources.resources
+D:\new_stuff\pcs3_2012-2013\week 6 database handling\AppAboutUsingMySqlDatabase on Athena\obj\Debug\DatabaseKoppeling.exe
+D:\new_stuff\pcs3_2012-2013\week 6 database handling\AppAboutUsingMySqlDatabase on Athena\obj\Debug\DatabaseKoppeling.pdb
+D:\new_stuff\pcs3_2012-2013\week 6 database handling\AppAboutUsingMySqlDatabase on Athena\obj\Debug\DatabaseConnection.csprojResolveAssemblyReference.cache
+D:\new_stuff\pcs3_2012-2013\week 6 database handling\AppAboutUsingMySqlDatabase on Athena\obj\Debug\DatabaseConnection.Form1.resources
+D:\new_stuff\pcs3_2012-2013\week 6 database handling\AppAboutUsingMySqlDatabase on Athena\obj\Debug\DatabaseKoppeling.Properties.Resources.resources
+D:\new_stuff\pcs3_2012-2013\week 6 database handling\AppAboutUsingMySqlDatabase on Athena\obj\Debug\DatabaseConnection.csproj.GenerateResource.Cache
+D:\new_stuff\pcs3_2012-2013\week 6 database handling\AppAboutUsingMySqlDatabase on Athena\bin\Debug\DatabaseKoppeling.exe
+D:\new_stuff\pcs3_2012-2013\week 6 database handling\AppAboutUsingMySqlDatabase on Athena\bin\Debug\DatabaseKoppeling.pdb
+D:\new_stuff\pcs3_2012-2013\week 6 database handling\AppAboutUsingMySqlDatabase on Athena\bin\Debug\MySql.Data.dll
+D:\new_stuff\pcs3\week 6 database handling\AppAboutUsingMySqlDatabase on Athena\obj\Debug\DatabaseConnection.csprojResolveAssemblyReference.cache
+D:\new_stuff\pcs3\week 6 database handling\AppAboutUsingMySqlDatabase on Athena\obj\Debug\DatabaseConnection.csproj.GenerateResource.Cache
+D:\new_stuff\pcs3\week 6 database handling\AppAboutUsingMySqlDatabase on Athena - for ProP\obj\Debug\DatabaseKoppeling.exe
+D:\new_stuff\pcs3\week 6 database handling\AppAboutUsingMySqlDatabase on Athena - for ProP\obj\Debug\DatabaseKoppeling.pdb
+D:\new_stuff\pcs3\week 6 database handling\AppAboutUsingMySqlDatabase on Athena - for ProP\bin\Debug\DatabaseKoppeling.exe
+D:\new_stuff\pcs3\week 6 database handling\AppAboutUsingMySqlDatabase on Athena - for ProP\bin\Debug\DatabaseKoppeling.pdb
+D:\new_stuff\pcs3\week 6 database handling\AppAboutUsingMySqlDatabase on Athena - for ProP\bin\Debug\MySql.Data.dll
+D:\new_stuff\pcs3\week 6 database handling\AppAboutUsingMySqlDatabase on Athena - for ProP\obj\Debug\DatabaseConnection.csprojResolveAssemblyReference.cache
+D:\new_stuff\pcs3\week 6 database handling\AppAboutUsingMySqlDatabase on Athena - for ProP\obj\Debug\DatabaseConnection.Form1.resources
+D:\new_stuff\pcs3\week 6 database handling\AppAboutUsingMySqlDatabase on Athena - for ProP\obj\Debug\DatabaseKoppeling.Properties.Resources.resources
+D:\new_stuff\pcs3\week 6 database handling\AppAboutUsingMySqlDatabase on Athena - for ProP\obj\Debug\DatabaseConnection.csproj.GenerateResource.Cache
+C:\Users\Zanub\Downloads\AppAboutUsingMySqlDatabase on Athena - for ProP\obj\Debug\DatabaseKoppeling.exe
+C:\Users\Zanub\Downloads\AppAboutUsingMySqlDatabase on Athena - for ProP\obj\Debug\DatabaseKoppeling.pdb

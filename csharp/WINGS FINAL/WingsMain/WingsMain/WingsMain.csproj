@@ -1,0 +1,179 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{9B210141-F912-40F0-BE26-F985A69E721E}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>WingsMain</RootNamespace>
+    <AssemblyName>WingsMain</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="MySql.Data, Version=6.9.5.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\Downloads\Camping\bin\Debug\MySql.Data.dll</HintPath>
+    </Reference>
+    <Reference Include="Phidget21.NET, Version=2.1.8.208, Culture=neutral, PublicKeyToken=c2b1f2a3594bce52, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\Downloads\MyFirstAppWithRFID\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Phidget21.NET.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Article.cs" />
+    <Compile Include="DataHelperCamp.cs" />
+    <Compile Include="DataHelperCheckingIn.cs" />
+    <Compile Include="DataHelperLend.cs" />
+    <Compile Include="DataHelperShop.cs" />
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form1Camp.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1Camp.designer.cs">
+      <DependentUpon>Form1Camp.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form1CheckingIn.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1CheckingIn.designer.cs">
+      <DependentUpon>Form1CheckingIn.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form1Shop.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1Shop.Designer.cs">
+      <DependentUpon>Form1Shop.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormLending.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormLending.Designer.cs">
+      <DependentUpon>FormLending.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Guests.cs" />
+    <Compile Include="Invoice.cs" />
+    <Compile Include="Login.cs" />
+    <Compile Include="Product.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Tent.cs" />
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1Camp.resx">
+      <DependentUpon>Form1Camp.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1CheckingIn.resx">
+      <DependentUpon>Form1CheckingIn.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1Shop.resx">
+      <DependentUpon>Form1Shop.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormLending.resx">
+      <DependentUpon>FormLending.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\16815_1st-june-welcome-group-monthly-meeting_1_large.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Camera-Battery-Charger.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\download.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Mars_chocolate.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\thumb_600.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\6596fa9bd1c806f3275c3d2b445f6db8_200_thumb.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\a11-e1382497814992.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\6284899855_042ac7379a_b.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\download1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\download %281%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Food.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\FCB_Event.v1330357583.jpg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

@@ -1,0 +1,49 @@
+book
+11
+Twilight
+Stephenie Meyer
+book
+12
+a christmas carol
+charles dickens
+magazine
+13
+PC World
+23
+magazine
+14
+Vogue
+11
+book
+15
+harry potter part1
+J.K. Rowling
+book
+16
+the jungle book
+R. Kipling
+magazine
+17
+time
+2
+magazine
+18
+Nature
+4
+book
+19
+the da vinci code
+Dan Brown
+magazine
+20
+Donald Duck
+32
+book
+21
+harry potter part2
+J.K. Rowling
+book
+22
+How to program
+Deitel
+end

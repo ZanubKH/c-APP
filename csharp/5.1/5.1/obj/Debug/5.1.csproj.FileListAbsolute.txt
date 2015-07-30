@@ -1,0 +1,18 @@
+c:\users\dell\documents\visual studio 2012\Projects\5.1\5.1\bin\Debug\5.1.exe.config
+C:\Users\Dell\Documents\Visual Studio 2012\Projects\5.1\5.1\obj\Debug\5.1.csprojResolveAssemblyReference.cache
+C:\Users\Dell\Documents\Visual Studio 2012\Projects\5.1\5.1\obj\Debug\PCS23_5._1.Form1.resources
+C:\Users\Dell\Documents\Visual Studio 2012\Projects\5.1\5.1\obj\Debug\_5._1.Properties.Resources.resources
+C:\Users\Dell\Documents\Visual Studio 2012\Projects\5.1\5.1\obj\Debug\5.1.csproj.GenerateResource.Cache
+C:\Users\Dell\Documents\Visual Studio 2012\Projects\5.1\5.1\bin\Debug\5.1.exe
+C:\Users\Dell\Documents\Visual Studio 2012\Projects\5.1\5.1\bin\Debug\5.1.pdb
+C:\Users\Dell\Documents\Visual Studio 2012\Projects\5.1\5.1\obj\Debug\5.1.exe
+C:\Users\Dell\Documents\Visual Studio 2012\Projects\5.1\5.1\obj\Debug\5.1.pdb
+C:\Users\Zanub\Downloads\5.1\5.1\bin\Debug\5.1.exe.config
+C:\Users\Zanub\Downloads\5.1\5.1\obj\Debug\5.1.exe
+C:\Users\Zanub\Downloads\5.1\5.1\obj\Debug\5.1.pdb
+C:\Users\Zanub\Downloads\5.1\5.1\bin\Debug\5.1.exe
+C:\Users\Zanub\Downloads\5.1\5.1\bin\Debug\5.1.pdb
+C:\Users\Zanub\Downloads\5.1\5.1\obj\Debug\5.1.csprojResolveAssemblyReference.cache
+C:\Users\Zanub\Downloads\5.1\5.1\obj\Debug\PCS23_5._1.Form1.resources
+C:\Users\Zanub\Downloads\5.1\5.1\obj\Debug\_5._1.Properties.Resources.resources
+C:\Users\Zanub\Downloads\5.1\5.1\obj\Debug\5.1.csproj.GenerateResource.Cache
